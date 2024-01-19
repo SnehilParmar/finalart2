@@ -1,0 +1,29 @@
+*{
+    background-color: teal;
+    color:aliceblue;
+    font-family: monospace,'Courier New', Courier, monospace;
+}
+
+.article-container{
+  display:flex;
+  width : 300px;
+  height:auto;
+  flex-direction: column;
+  
+  
+
+}
+.heading{
+    display:flex;
+    width : 300px;
+    height:auto;
+   
+    
+}
+.article{
+    display:flex;
+    width : 300px;
+    height:auto;
+   
+    
+}
